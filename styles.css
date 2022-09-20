@@ -1,5 +1,9 @@
 body{
     margin:0;
-    background:pink;
-    text-align: center;
+    background: white;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    word-wrap: break-word; width: 1000px;
+    
 }
